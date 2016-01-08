@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    static final String TAG = "MainActivity";
+    static final String TAG = MainActivity.class.getSimpleName();
     private BluetoothAdapter mBluetoothAdapter;
     private boolean searchBt = true;
     private View.OnClickListener mOnClickListener;
