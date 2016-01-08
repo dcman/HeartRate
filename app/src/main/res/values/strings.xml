@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">HeartRate</string>
     <string name="action_settings">Settings</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetoothOn">Turning on your BT</string>
+    <string name="undo">Undo</string>
 </resources>
